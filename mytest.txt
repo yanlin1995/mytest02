@@ -1,2 +1,6 @@
 hello git
+<<<<<<< HEAD
 我是master上的内容
+=======
+分支分支，提交到分支
+>>>>>>> remotes/origin/dev
